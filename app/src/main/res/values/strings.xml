@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Certainty Factor</string>
+    <string name="daftar_penyakit">Daftar Penyakit</string>
+    <string name="daftar_gejala">Daftar Gejala</string>
+    <string name="gejala">gejala</string>
+    <string name="todo">TODO</string>
+</resources>

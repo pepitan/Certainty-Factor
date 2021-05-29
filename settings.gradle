@@ -1,0 +1,2 @@
+rootProject.name = "Certainty Factor"
+include ':app'
