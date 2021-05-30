@@ -27,7 +27,7 @@ public class Penyakit extends AppCompatActivity {
 
         tabLayout.addTab(tabLayout.newTab().setText("Periodontitis"));
         tabLayout.addTab(tabLayout.newTab().setText("Gingivitis"));
-        tabLayout.addTab(tabLayout.newTab().setText("Abses Gusi"));
+        tabLayout.addTab(tabLayout.newTab().setText("Abses Gigi"));
 
         tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override

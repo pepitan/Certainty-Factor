@@ -6,11 +6,28 @@
     <string name="todo">TODO</string>
     <string name="diagnosa">Diagnosa</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="periodontitis"> 
         Periodontitis adalah infeksi gusi yang merusak gigi, jaringan lunak,
         dan tulang penyangga gigi. Kondisi ini harus segera diobati
         karena dapat menyebabkan komplikasi serius.
     </string>
     <string name="perido">Peridontitis</string>
+    <string name="ging">Gingivitis</string>
+    <string name="gingi">
+        Radang gusi atau gingivitis adalah peradangan pada
+        gusi yang ditandai oleh memerahnya gusi di sekitar akar gigi.
+        Gingivitis terjadi ketika sisa makanan di gigi dan gusi mengeras
+        menjadi plak.
+    </string>
+    <string name="abs">Abses Gigi</string>
+    <string name="abse">
+        Abses gigi adalah terbentuknya kantung atau benjolan berisi nanah 
+        pada gigi. Abses gigi disebabkan oleh infeksi bakteri. Kondisi ini 
+        bisa muncul di sekitar akar gigi maupun di gusi.
+    </string>
+    <string name="gej1">
+        Nyeri \nPenumpukan karang \nJarak gigirenggang \nGusi menyusut
+        \nGusi merah \nGusi lunak \nGusi bengkak \nGusi mudah berdarah
+        \nNapas bau \nKeluar nanah \nGigi goyang
+    </string>
 </resources>
