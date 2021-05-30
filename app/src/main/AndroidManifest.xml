@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CertaintyFactor">
-        <activity android:name=".Gejala"></activity>
+        <activity android:name=".Diagnosa"/>
+        <activity android:name=".Gejala" />
         <activity android:name=".Penyakit" />
         <activity android:name=".MainActivity">
             <intent-filter>

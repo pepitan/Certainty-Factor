@@ -4,4 +4,13 @@
     <string name="daftar_gejala">Daftar Gejala</string>
     <string name="gejala">gejala</string>
     <string name="todo">TODO</string>
+    <string name="diagnosa">Diagnosa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="periodontitis"> 
+        adalah infeksi gusi yang merusak gigi, jaringan lunak,
+        dan tulang penyangga gigi. Kondisi ini harus segera diobati
+        karena dapat menyebabkan komplikasi serius.
+    </string>
+    <string name="perido">Peridontitis</string>
 </resources>
