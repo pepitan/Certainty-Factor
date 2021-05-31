@@ -36,6 +36,28 @@
     </string>
     <string name="gej3">
         Demam \nNapas bau \nGusi bengkak \nSakit saat mengunyah \nSakit gigi hingga telinga
-        \nSensitif makanan \nWajah membengkak \nKelenjar getah bening bengkak
+        \nSensitif makanan
     </string>
+    <string name="nilai">Masukan Nilai Kepercayaan</string>
+    <string name="gejala_1">Nyeri</string>
+    <string name="gejala_2">Demam</string>
+    <string name="gejala_3">Napas Bau</string>
+    <string name="gejala_4">Gusi bewarna merah</string>
+    <string name="gejala_5">Gusi terasa lunak</string>
+    <string name="gejala_6">Gusi Bengkak</string>
+    <string name="gejala_7">Gusi mudah berdarah</string>
+    <string name="gejala_8">Gusi menyusut</string>
+    <string name="gejala_9">Gigi berubah warna</string>
+    <string name="gejala_10">Gigi goyang</string>
+    <string name="gejala_11">Gigi palsu terasa tidak pas</string>
+    <string name="gejala_12">Gigi tanggal</string>
+    <string name="gejala_13">Rasa sakit saat mengunyah</string>
+    <string name="gejala_14">Sakit gigi menyebar hingga telinga</string>
+    <string name="gejala_15">Jarak gigi renggang</string>
+    <string name="gejala_16">Sensitif pada makanan</string>
+    <string name="gejala_17">Keluarnya nanah pada gusi</string>
+    <string name="hasil">HASIL</string>
+    <string name="deteksi">DETEKSI</string>
+
+
 </resources>
