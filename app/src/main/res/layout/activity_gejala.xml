@@ -61,20 +61,20 @@
                 android:layout_width="154dp"
                 android:layout_height="match_parent"
                 android:gravity="center"
-                android:text="@string/perido"
+                android:text="@string/ging"
                 android:textSize="20sp" />
 
             <TextView
                 android:layout_width="231dp"
                 android:layout_height="match_parent"
-                android:text="@string/gej1"
+                android:text="@string/gej2"
                 android:textSize="18sp" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
-        android:layout_width="386dp"
-        android:layout_height="200dp"
+        android:layout_width="391dp"
+        android:layout_height="193dp"
         app:cardBackgroundColor="@color/white"
         app:cardCornerRadius="40dp"
         app:cardElevation="60dp"
@@ -94,14 +94,15 @@
                 android:layout_width="154dp"
                 android:layout_height="match_parent"
                 android:gravity="center"
-                android:text="@string/perido"
+                android:text="@string/abs"
                 android:textSize="20sp" />
 
             <TextView
                 android:layout_width="231dp"
                 android:layout_height="match_parent"
-                android:text="@string/gej1"
-                android:textSize="18sp" />
+                android:text="@string/gej3"
+                android:textSize="18sp"
+                android:textAlignment="gravity"/>
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>

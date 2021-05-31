@@ -6,12 +6,12 @@
     <string name="todo">TODO</string>
     <string name="diagnosa">Diagnosa</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="periodontitis"> 
+    <string name="perido">Peridontitis</string>
+    <string name="periodontitis">
         Periodontitis adalah infeksi gusi yang merusak gigi, jaringan lunak,
         dan tulang penyangga gigi. Kondisi ini harus segera diobati
         karena dapat menyebabkan komplikasi serius.
     </string>
-    <string name="perido">Peridontitis</string>
     <string name="ging">Gingivitis</string>
     <string name="gingi">
         Radang gusi atau gingivitis adalah peradangan pada
@@ -29,5 +29,13 @@
         Nyeri \nPenumpukan karang \nJarak gigirenggang \nGusi menyusut
         \nGusi merah \nGusi lunak \nGusi bengkak \nGusi mudah berdarah
         \nNapas bau \nKeluar nanah \nGigi goyang
+    </string>
+    <string name="gej2">
+        Nyeri \nNapas bau \nGusi merah \nGusi bengkak \nGusi menyusut
+        \nGusi mudah berdarah \nGigi palsu tidak pas \nGigi tanggal \nKeluar nanah
+    </string>
+    <string name="gej3">
+        Demam \nNapas bau \nGusi bengkak \nSakit saat mengunyah \nSakit gigi hingga telinga
+        \nSensitif makanan \nWajah membengkak \nKelenjar getah bening bengkak
     </string>
 </resources>
